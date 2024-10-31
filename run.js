@@ -71,6 +71,7 @@ async function  go(){
         }
       }
       console.log('done, have a great day!');
+      process.exit(0);
 }
 
 
